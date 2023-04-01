@@ -1,6 +1,8 @@
 
 ### Верстка сайта 'Rentiz' 
 
+ https://juliadooby.github.io/Rentiz/
+
 ---
 
 ### Стек / Stack: 
