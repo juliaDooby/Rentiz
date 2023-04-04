@@ -1,7 +1,7 @@
 
 ### Верстка сайта 'Rentiz' 
 
- https://juliadooby.github.io/Rentiz/
+  [Посмотрите сами](https://juliadooby.github.io/Rentiz/)
 
 ---
 
