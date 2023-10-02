@@ -1,5 +1,5 @@
 
-### website layout 'Rentiz' 
+### Website layout 'Rentiz' 
 
   [demo](https://juliadooby.github.io/Rentiz/)
 ---
