@@ -1,16 +1,14 @@
 
-### Верстка сайта 'Rentiz' 
+### website layout 'Rentiz' 
 
-  [Посмотрите сами](https://juliadooby.github.io/Rentiz/)
-
+  [demo](https://juliadooby.github.io/Rentiz/)
 ---
 
-### Стек / Stack: 
+###  Stack: 
 
 * HTML
 * CSS
 * Javascript 
 * GSAP
-
 ---
 
