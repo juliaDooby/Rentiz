@@ -8,7 +8,7 @@
 [demo](https://juliadooby.github.io/Rentiz/)
 ---
 
-###  Stack: 
+### Technologies Used:
 
 * HTML
 * CSS
