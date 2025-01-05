@@ -7,11 +7,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GSAP](https://img.shields.io/badge/GSAP-hotpink.svg?style=for-the-badge&logo=GSAP&logoColor=brown)
 
+<a href="https://juliadooby.github.io/Rentiz/"><strong>➥Demo</strong></a>
+
 <div align="center"><img src="https://github.com/juliaDooby/Rentiz/blob/main/RentizShot1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Rentiz/blob/main/RentizShot2.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Rentiz/blob/main/RentizShot3.JPG" width="100%" height="20%"></img></div>
 
-[demo](https://juliadooby.github.io/Rentiz/)
 ---
 
 ### Technologies Used:
